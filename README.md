@@ -1,7 +1,12 @@
 # SimpleTextEditor-
 Basically a RTE ,  using DraftJs and its plugins.
 
-Download the files , then just do "npm install" in the parent folder directory, followed by " npm start". 
+Download the files , then just do 
 
-For bundle-production, use "webpack -p".
+- npm install 
+- npm start
+For bundle-production 
+
+- webpack -p
+- Go to localhost:8080 ( default port) 
 
